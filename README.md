@@ -1,0 +1,2 @@
+# Projectgit
+Running git command
